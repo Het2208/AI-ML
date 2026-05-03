@@ -1,0 +1,219 @@
+{
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "abbreviation": "AP",
+      "area_codes": [
+        "0866",
+        "08554",
+        "0891"
+      ]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "abbreviation": "AR",
+      "area_codes": [
+        "0360",
+        "03802"
+      ]
+    },
+    {
+      "name": "Assam",
+      "abbreviation": "AS",
+      "area_codes": [
+        "0361",
+        "0373",
+        "03842"
+      ]
+    },
+    {
+      "name": "Bihar",
+      "abbreviation": "BR",
+      "area_codes": [
+        "0612",
+        "0621",
+        "0631"
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "abbreviation": "CG",
+      "area_codes": [
+        "0771",
+        "0788"
+      ]
+    },
+    {
+      "name": "Goa",
+      "abbreviation": "GA",
+      "area_codes": [
+        "0832"
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "abbreviation": "GJ",
+      "area_codes": [
+        "079",
+        "0261",
+        "0281"
+      ]
+    },
+    {
+      "name": "Haryana",
+      "abbreviation": "HR",
+      "area_codes": [
+        "0172",
+        "0124"
+      ]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "abbreviation": "HP",
+      "area_codes": [
+        "0177",
+        "01902"
+      ]
+    },
+    {
+      "name": "Jharkhand",
+      "abbreviation": "JH",
+      "area_codes": [
+        "0651",
+        "0326"
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "abbreviation": "KA",
+      "area_codes": [
+        "080",
+        "0821",
+        "0836"
+      ]
+    },
+    {
+      "name": "Kerala",
+      "abbreviation": "KL",
+      "area_codes": [
+        "0471",
+        "0484"
+      ]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "abbreviation": "MP",
+      "area_codes": [
+        "0755",
+        "0731"
+      ]
+    },
+    {
+      "name": "Maharashtra",
+      "abbreviation": "MH",
+      "area_codes": [
+        "022",
+        "020",
+        "0712"
+      ]
+    },
+    {
+      "name": "Manipur",
+      "abbreviation": "MN",
+      "area_codes": [
+        "0385"
+      ]
+    },
+    {
+      "name": "Meghalaya",
+      "abbreviation": "ML",
+      "area_codes": [
+        "0364"
+      ]
+    },
+    {
+      "name": "Mizoram",
+      "abbreviation": "MZ",
+      "area_codes": [
+        "0389"
+      ]
+    },
+    {
+      "name": "Nagaland",
+      "abbreviation": "NL",
+      "area_codes": [
+        "0370"
+      ]
+    },
+    {
+      "name": "Odisha",
+      "abbreviation": "OD",
+      "area_codes": [
+        "0674",
+        "0661"
+      ]
+    },
+    {
+      "name": "Punjab",
+      "abbreviation": "PB",
+      "area_codes": [
+        "0172",
+        "0183"
+      ]
+    },
+    {
+      "name": "Rajasthan",
+      "abbreviation": "RJ",
+      "area_codes": [
+        "0141",
+        "0291"
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "abbreviation": "SK",
+      "area_codes": [
+        "03592"
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "abbreviation": "TN",
+      "area_codes": [
+        "044",
+        "0422"
+      ]
+    },
+    {
+      "name": "Telangana",
+      "abbreviation": "TS",
+      "area_codes": [
+        "040"
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "abbreviation": "UP",
+      "area_codes": [
+        "0522",
+        "0532"
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "abbreviation": "UK",
+      "area_codes": [
+        "0135",
+        "0591"
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "abbreviation": "WB",
+      "area_codes": [
+        "033",
+        "0343"
+      ]
+    }
+  ]
+}
