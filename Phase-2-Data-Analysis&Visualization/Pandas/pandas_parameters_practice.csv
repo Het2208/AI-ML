@@ -1,0 +1,6 @@
+StudentID,Name,Age,Course,Marks
+101,Amit,20,AI,85
+102,Neha,21,ML,90
+103,Raj,-,DS,78
+104,Sneha,22,AI,null
+105,Karan,NA,ML,92
