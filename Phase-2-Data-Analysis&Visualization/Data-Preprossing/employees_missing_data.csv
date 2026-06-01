@@ -1,0 +1,13 @@
+EmployeeID,Name,Department,Age,Salary,Experience,City,PerformanceScore
+101,Het,IT,22.0,45000.0,1.0,Rajkot,8.0
+102,Raj,HR,,40000.0,2.0,Ahmedabad,7.0
+103,Jay,IT,25.0,,3.0,Surat,9.0
+104,Amit,Finance,29.0,850000.0,5.0,Rajkot,6.0
+105,Neha,HR,24.0,42000.0,,Ahmedabad,
+106,Priya,IT,,47000.0,2.0,,8.0
+107,Karan,Finance,31.0,,6.0,Surat,7.0
+108,Riya,Marketing,26.0,39000.0,3.0,Rajkot,
+109,Dev,Marketing,27.0,41000.0,,Ahmedabad,6.0
+110,Krish,IT,23.0,46000.0,2.0,Surat,9.0
+111,Anya,Finance,,950000.0,7.0,Rajkot,8.0
+112,Parth,HR,28.0,43000.0,4.0,,7.0
