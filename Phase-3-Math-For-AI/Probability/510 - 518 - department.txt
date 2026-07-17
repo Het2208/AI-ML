@@ -1,2 +1,0 @@
-510 - 518 -> department
-layout -> header , footer , sidebar [272-282]
